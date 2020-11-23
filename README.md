@@ -8,7 +8,7 @@
 
 原来代码有两处错误：
 
-1 判别函数少了“协方差矩阵行列式”此项
+1 判别函数少了“协方差矩阵行列式”此项。
 
 2 MQDF算法中计算修正的协方差矩阵时，直接输出了原矩阵，并且代码逻辑较为混乱，因此进行了重新改写。
 
@@ -18,7 +18,7 @@
 运行环境： Python >3 
 
 requirenments：
-pandas，sklearn，matplotlib，numpy，
+pandas，sklearn，matplotlib，numpy
 
 # 使用
 1 不需在联网环境下获取数据

@@ -7,6 +7,9 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1kDRGGB6lqbZKyKo0LrplPXRgBH" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -99,6 +102,7 @@
       <workItem from="1605683422779" duration="18752000" />
       <workItem from="1605748370171" duration="18823000" />
       <workItem from="1605856565050" duration="1766000" />
+      <workItem from="1606112257239" duration="147000" />
     </task>
     <servers />
   </component>
@@ -175,6 +179,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="968" height="528" key="XDebugger.FullValuePopup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1605250044771" />
+    <state x="753" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606112396176">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="753" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1606112396176" />
     <state x="840" y="383" key="ftp.server.browser" timestamp="1605234544676">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
